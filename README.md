@@ -16,4 +16,4 @@ A simple and responsive password generator built with React.
 (Add screenshot here)
 
 ## 🌐 Live Demo
-(Add later if you deploy)
+https://aryankumar62.github.io/Password_Generator/
